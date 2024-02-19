@@ -14,7 +14,7 @@ I have interests in many creative worlds such as Graphic and UI/UX Design, Websi
 
 ### Connect With Me
 ![instagram-icon-20-20](https://github.com/samuelezranas/samuelezranas/assets/92965914/e0173dd0-a205-4841-b96a-5351383a423c) https://www.instagram.com/samuelezra34/ <br>
-![linkedin-icon-20-20](https://github.com/samuelezranas/samuelezranas/assets/92965914/74546f09-9189-431e-b69c-6ea7ec379ad8) https://www.linkedin.com/in/samuel-ezra-sirait/
+![linkedin-icon-20-20](https://github.com/samuelezranas/samuelezranas/assets/92965914/74546f09-9189-431e-b69c-6ea7ec379ad8) https://www.linkedin.com/in/samuel-ezra-sirait/ <br>
 ![behance-icon-20-20](https://github.com/samuelezranas/samuelezranas/assets/92965914/504d4030-194e-4d8b-8f14-51203e09f744) https://www.behance.net/samuelezranas
 
 
