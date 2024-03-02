@@ -1,6 +1,6 @@
 ### Hello, world!👋
 My name is **Samuel Ezra**, a **6th-semester student in Informatics Engineering, Faculty of Engineering, Udayana University**, Bali. <br>
-I'm currently learning **Mobile Development** in **Bangkit 2024 Batch 1**. <br>
+I'm currently learning **Android Mobile Development** in **Bangkit 2024 Batch 1**. <br>
 I have interests in various creative worlds such as Graphic and UI/UX Design, Website Coding, App Coding, and also photography.<br><br>
 
 
@@ -13,8 +13,8 @@ I have interests in various creative worlds such as Graphic and UI/UX Design, We
 
 ### Github Statistic 🎯
 <a href="https://github.com/samuelezranas">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=samuelezranas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samuelezranas&layout=compact&langs_count=5&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samuelezranas&layout=compact&langs_count=5&theme=Nord"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=samuelezranas&show_icons=true&theme=Nord&include_all_commits=true&count_private=true"/>
 </a>
 <br><br>
 
