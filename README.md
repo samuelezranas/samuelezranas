@@ -13,8 +13,8 @@ I have interests in various creative worlds such as Graphic and UI/UX Design, We
 
 ### Github Statistic 🎯
 <a href="https://github.com/samuelezranas">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samuelezranas&layout=compact&langs_count=5&theme=Nord"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=samuelezranas&show_icons=true&theme=Nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelezranas&theme=dracula&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelezranas&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
 </a>
 <br><br>
 
