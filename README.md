@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelezranas&label=Profile%20views&color=d491b1&style=flat" alt="samuelezranas" /> </p>
 <p align=center>
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelezranas&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="samuelezranas" />
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelezranas&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide=jupyter%20notebook" alt="samuelezranas" />
   <img height="180em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelezranas&theme=tokyonight" alt="samuelezranas" />
 </p><br><br><br><br><br><br><br><br>
 
