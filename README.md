@@ -1,10 +1,10 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=500&size=35&duration=2500&pause=1000&color=0000FF&center=true&vCenter=true&random=false&width=450&lines=Hello%2C+world!+;I'm+Samuel+Ezra;Nice+to+meet+you!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=500&size=35&duration=2500&pause=1000&color=7aa2f7&center=true&vCenter=true&random=false&width=450&lines=Hello%2C+world!+;I'm+Samuel+Ezra;Nice+to+meet+you!" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">a student majoring in Information Technology on campus with any various excitement in creative worlds such as Graphic Design, UI/UX Design, Photography, and also Website Coding & App Coding.</h3> <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelezranas&label=Profile%20views&color=d491b1&style=flat" alt="samuelezranas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelezranas&label=Profile%20views&color=7aa2f7&style=flat" alt="samuelezranas" /> </p>
 <p align=center>
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelezranas&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide=jupyter%20notebook" alt="samuelezranas" />
   <img height="180em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelezranas&theme=tokyonight" alt="samuelezranas" />
