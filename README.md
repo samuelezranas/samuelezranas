@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=500&size=35&duration=2500&pause=1000&color=F756EC&center=true&vCenter=true&random=false&width=450&lines=Hello%2C+world!+;I'm+Samuel+Ezra;Nice+to+meet+you!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=500&size=35&duration=2500&pause=1000&color=0000FF&center=true&vCenter=true&random=false&width=450&lines=Hello%2C+world!+;I'm+Samuel+Ezra;Nice+to+meet+you!" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">a student majoring in Information Technology on campus with any various excitement in creative worlds such as Graphic Design, UI/UX Design, Photography, and also Website Coding & App Coding.</h3> <br>
