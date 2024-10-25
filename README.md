@@ -15,13 +15,17 @@
     </td>
     <td valign="top" width="800">
       <h2>💫 About Me:</h2>
-      <p>I am a student majoring in Information Technology, passionate about exploring creative fields such as <strong>Graphic Design</strong>, <strong>UI/UX Design</strong>, <strong>Photography</strong>, and both <strong>Web</strong> and <strong>App Development</strong>. I thrive on transforming ideas into innovative solutions that enhance my skills and creativity in the digital world.</p> 
-      <h2>📊 GitHub Stats:</h2>
-      <img height="165em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelezranas&show_icons=true&theme=blueberry&locale=en&layout=compact&hide=jupyter%20notebook" alt="samuelezranas" />
-      <img height="180em" width="385em" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelezranas&theme=blueberry" alt="samuelezranas" />
-    </td>
+      <p>I am a student majoring in Information Technology, passionate about exploring creative fields such as <strong>Graphic Design</strong>, <strong>UI/UX Design</strong>, <strong>Photography</strong>, and both <strong>Web</strong> and <strong>App Development</strong>. I thrive on transforming ideas into innovative solutions that enhance my skills and creativity in the digital world.</p>
   </tr>
 </table>
+
+<br>
+
+## 📊 GitHub Stats:
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <img height="165em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelezranas&show_icons=true&theme=blueberry&locale=en&layout=compact&hide=jupyter%20notebook" alt="samuelezranas" />
+  <img height="180em" width="385em" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelezranas&theme=blueberry" alt="samuelezranas" />
+</div>
 
 <br>
 
