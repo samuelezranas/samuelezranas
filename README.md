@@ -34,7 +34,7 @@
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/samuelezranas-1769ff?logo=behance&logoColor=white)](https://behance.net/samuelezranas) 
 [![Instagram](https://img.shields.io/badge/samuelezra34-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samuelezra34) 
-[![LinkedIn](https://img.shields.io/badge/samuelezra34-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-ezra-sirait)
+[![LinkedIn](https://img.shields.io/badge/samuelezra-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-ezra-sirait)
 [![Discord](https://img.shields.io/badge/jetjet-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/520607893993684992) 
 [![Telegram](https://img.shields.io/badge/sam_ezra-%230088cc.svg?logo=telegram&logoColor=white)](https://t.me/sam_ezra)
 
