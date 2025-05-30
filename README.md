@@ -33,10 +33,10 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/samuelezra34-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samuelezra34) <br>
-[![LinkedIn](https://img.shields.io/badge/Samuel%20Ezra%20Sirait-%230077B5.svg?logo=inspire&logoColor=white)](https://linkedin.com/in/samuel-ezra-sirait) <br>
+[![LinkedIn](https://img.shields.io/badge/samuel--ezra--sirait-%230077B5.svg?logo=inspire&logoColor=white)](https://linkedin.com/in/samuel-ezra-sirait) <br>
 [![Discord](https://img.shields.io/badge/jetjet-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/520607893993684992) <br>
 [![WhatsApp](https://img.shields.io/badge/Samuel%20Ezra-25D366?logo=whatsapp&logoColor=white)](https://wa.me/6281318994607) <br>
-[![LINE](https://img.shields.io/badge/LINE-ezra__953-00c300?logoColor=white)](https://line.me/ti/p/~ezra_953) <br>
+[![LINE](https://img.shields.io/badge/ezra__953-00c300?logo=line&logoColor=white)](https://line.me/ti/p/~ezra_953) <br>
 [![Telegram](https://img.shields.io/badge/sam_ezra-%230088cc.svg?logo=telegram&logoColor=white)](https://t.me/sam_ezra) <br>
 [![Behance](https://img.shields.io/badge/samuelezranas-1769ff?logo=behance&logoColor=white)](https://behance.net/samuelezranas) <br>
 
