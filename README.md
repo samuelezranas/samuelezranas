@@ -32,13 +32,14 @@
 <br>
 
 ## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/samuelezra34-%23833AB4.svg?logo=instagram&logoColor=white)](https://instagram.com/samuelezra34) <br>
+[![Telegram](https://img.shields.io/badge/sam_ezra-%230088cc.svg?logo=telegram&logoColor=white)](https://t.me/sam_ezra) <br>
+[![LinkedIn](https://img.shields.io/badge/samuel--ezra--sirait-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-ezra-sirait) <br>
+[![Discord](https://img.shields.io/badge/jetjet-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/520607893993684992) <br>
+[![Behance](https://img.shields.io/badge/samuelezranas-1769ff?logo=behance&logoColor=white)](https://behance.net/samuelezranas) <br>
 [![LINE](https://img.shields.io/badge/ezra__953-00c300?logo=line&logoColor=white)](https://line.me/ti/p/~ezra_953) <br>
 [![WhatsApp](https://img.shields.io/badge/Samuel%20Ezra-25D366?logo=whatsapp&logoColor=white)](https://wa.me/6281318994607) <br>
-[![Telegram](https://img.shields.io/badge/sam_ezra-%230088cc.svg?logo=telegram&logoColor=white)](https://t.me/sam_ezra) <br>
-[![Discord](https://img.shields.io/badge/jetjet-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/520607893993684992) <br>
-[![LinkedIn](https://img.shields.io/badge/samuel--ezra--sirait-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-ezra-sirait) <br>
-[![Behance](https://img.shields.io/badge/samuelezranas-1769ff?logo=behance&logoColor=white)](https://behance.net/samuelezranas) <br>
-[![Instagram](https://img.shields.io/badge/samuelezra34-%23833AB4.svg?logo=instagram&logoColor=white)](https://instagram.com/samuelezra34) <br>
+
 
 
 
